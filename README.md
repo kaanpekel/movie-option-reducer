@@ -1,4 +1,4 @@
-# watchlist-streaming-service-finder
+# Movie Option Reducer
 It helps user to eliminate the infinite scroll mechanisms of streaming services and thus users choice overload problem by reducing the number of options.
 
 Layer 1:
